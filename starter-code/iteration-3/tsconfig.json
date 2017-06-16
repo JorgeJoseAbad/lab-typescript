@@ -2,11 +2,11 @@
   "compileOnSave": true,
   "compilerOptions": {
     "target" :"es6",
-
+  
     "removeComments": true
   },
   "files": [
     "main.ts",
-    "todoInterface.ts"
+    "interfaces.ts"
   ]
 }

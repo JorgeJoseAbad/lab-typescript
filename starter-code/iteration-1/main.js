@@ -14,7 +14,7 @@ function listAllTasks() {
     myArray.map(function (item) {
         console.log(item);
     });
-    //return myArray.length;
+    return myArray.length;
 }
 // 4. Create a function to delete a task, you must find the task inside
 //the array and delete it.

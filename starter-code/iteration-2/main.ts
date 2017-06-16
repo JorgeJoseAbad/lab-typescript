@@ -1,5 +1,4 @@
 // Add the reference to the "TodoInterface"
-
 import {TodoInterface} from './todoInterface';
 
 // 1. Create a class Todo that implements the Interface created before.
@@ -30,7 +29,6 @@ class Todo implements TodoInterface{
       return this.myArray.length;
     }
 }
-
 
 // Execution
 let myTodos = new Todo();

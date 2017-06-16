@@ -7,5 +7,5 @@ export interface TodoInterface {
     myArray: Array<string>;
     addTask(task:string):number;
     listAllTasks(p:void):void;
-    deleteTask(tak:string):number;
+    deleteTask(tak:string):number
 }
